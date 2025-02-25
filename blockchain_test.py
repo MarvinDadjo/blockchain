@@ -1,4 +1,3 @@
-#Tu veux que je te guide pour améliorer et ajouter plus de fonctionnalités ?
 #http://127.0.0.1:5000/mine
 #http://127.0.0.1:5000/chain
 #Example de transactions via invite commande: curl -X POST -H "Content-Type: application/json" -d "{\"sender\": \"Alice\", \"recipient\": \"Bob\", \"amount\": 5}" http://127.0.0.1:5000/transactions/new
